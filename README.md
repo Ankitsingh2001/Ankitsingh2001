@@ -1,4 +1,4 @@
-<img  height="300" align="center" width="100%" src="https://cutewallpaper.org/21/matrix-gif-background/4K-1000-Min.-Green-Matrix-Glowing-Motion-Background-2160p-Efect-GIF.gif" >
+<img  height="200" align="center" width="100%" src="https://cutewallpaper.org/21/matrix-gif-background/4K-1000-Min.-Green-Matrix-Glowing-Motion-Background-2160p-Efect-GIF.gif" >
 <h1 align="center">Hi 👋, I'm ANKIT</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
